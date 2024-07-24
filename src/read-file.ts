@@ -1,5 +1,5 @@
 
-import { readFile as fsReadFile } from 'fs';
+import { readFile as fsReadFile } from 'node:fs';
 
 
 /**
